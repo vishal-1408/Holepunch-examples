@@ -1,0 +1,22 @@
+{
+  "name": "holepunch-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "corestore": "^6.4.0",
+    "crypto": "^1.0.1",
+    "hyperbee": "^2.2.0",
+    "hypercore": "^10.5.3",
+    "hyperdrive": "^11.0.0-alpha.9",
+    "hyperswarm": "^4.3.5",
+    "random-access-memory": "^6.1.0",
+    "stream-to-array": "^2.3.0"
+  }
+}
